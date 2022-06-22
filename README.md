@@ -1,7 +1,9 @@
 
 ## Olá eu sou Otacília Souza, desenvolvedora Front end Web Developer!
 
-
+<div>
+  <img align="right" alt="Git-Computador" width="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+</div>
 <div align="center">
   
   <img align="center" alt="Otacilia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
