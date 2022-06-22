@@ -1,5 +1,10 @@
+<div align="center">
+  <img align="center" alt="Otacilia-Js" height="300" width="1500" src="https://img.freepik.com/fotos-gratis/imagem-de-close-up-de-programador-trabalhando-em-sua-mesa-no-escritorio_1098-18707.jpg?w=1380&t=st=1655926083~exp=1655926683~hmac=1e92d7914d63a2d7861e915dbc6974c9cf4e12c505081c88c7b2a5c0c0d88b74">
+  
 
-![profile](https://drpoesiahome.files.wordpress.com/2020/11/gifffff.gif)
+
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> Olá eu sou Otacília Souza, desenvolvedora Front end Web Developer!</h2>
