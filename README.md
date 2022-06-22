@@ -10,7 +10,7 @@
 <h2 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> Olá eu sou Otacília Souza, desenvolvedora Front end Web Developer!</h2>
 
 
- <p> <h3> ⭐ Linguagens e Framewokrs: Linguagens que estou aprendendo e/ou uso no dia-a-dia estarão aqui</h3><p/>
+ <p> <h3> ⭐ Linguagens e Framewokrs que estou aprendendo e/ou uso no dia-a-dia estarão aqui</h3><p/>
 
 
 <div align="center">
