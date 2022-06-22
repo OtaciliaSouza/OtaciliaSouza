@@ -1,24 +1,28 @@
 
-## Olá eu sou Otacília Souza, desenvolvedora Front end Web Developer!
-<img src="https://thumbs.gfycat.com/[HarmoniousUnknownAfghanhound-max-1mb.gif](https://wepik.com/edit/new-artboard?photo=https%3A%2F%2Fdownloadscdn7.freepik.com%2F1098%2F19%2F18707.jpg%3Ffilename%3Dclose-up-image-of-programer-working-at-his-desk-in-office%26token%3Dexp%3D1655922756%7Ehmac%3D31329f9649bc80b613838a476e43571c)" width="1080" height="200" align="center" alt="Developer">
+![profile](https://drpoesiahome.files.wordpress.com/2020/11/gifffff.gif)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
+
+<h2 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> Olá eu sou Otacília Souza, desenvolvedora Front end Web Developer!</h2>
+
+
+ <p> <h3> ⭐ Linguagens e Framewokrs: Linguagens que estou aprendendo e/ou uso no dia-a-dia estarão aqui</h3><p/>
+
 
 <div align="center">
-  
   <img align="center" alt="Otacilia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Otacilia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Otacilia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Otacilia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Otacilia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Otacilia-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Otacilia-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
+  <img align="center" alt="Otacilia-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/marcelodib/marcelodib/master/assets/mysql.png" alt="mysql" width="45" height="45"/><img">
 <img align="center" alt="Otacilia-Node" height="30" width="40" src="https://nodejs.org/static/images/logo.svg" />
 </div>
   
   
-</div>
-  
 ----------------------
+
+<p> <h3>⭐ Informações sobre minha conta GitHub </h3></p>
 
 <div align="center">
   <a href="https://github.com/OtaciliaSouza">
@@ -28,16 +32,15 @@
 
 -----------------------
 
- 
+<p> <h3>⭐ Mais informações, entre em contato comigo!</h3></p> 
 
 <div align="center">
   
-
-
-
   <a href = "mailto:contatoraotaciliatimoteo@hotmail.com.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Otacilia-Souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  <a href="http://api.whatsapp.com/send?phone=5581981639936" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
 
  
