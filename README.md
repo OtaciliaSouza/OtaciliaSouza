@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> Olá eu sou Otacília Souza, desenvolvedora Front end Web Developer!</h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">Desenvolvedora Full-Stack pela Labenu e estudante do projeto reprogramando a quebrada do mais1code em parceria com o INU, ao longo da minha trajetória desenvolvi e estou desenvolvendo projetos em equipes e também individuais com as tecnologias de HTML, CSS, JavaScript e React.js, incluindo neste Hooks e Styled-Components, Git e GitHub e Consumeos de API'S.</h2>
 
 
  <p> <h3> ⭐ Linguagens e Framewokrs que estou aprendendo e/ou uso no dia-a-dia estarão aqui</h3><p/>
