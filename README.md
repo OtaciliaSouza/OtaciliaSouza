@@ -7,7 +7,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
 
-<h4 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">Olá sou Otacilia Souza, Desenvolvedora Full-Stack pela Labenu e estudante do projeto reprogramando a quebrada do mais1code em parceria com o INU, ao longo da minha trajetória desenvolvi e estou desenvolvendo projetos em equipes e também individuais com as tecnologias de HTML, CSS, JavaScript e React.js, incluindo neste Hooks e Styled-Components, Git e GitHub e Consumeos de API'S.</h4>
+<h4 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">Olá, sou Otacilia Souza, em transição de carreira para a área de tecnologia. Recentemente, iniciei minha jornada como estudante no projeto Reprogramando a Quebrada, promovido pelo Mais1Code em parceria com o INU, e anteriormente concluí o curso de Desenvolvedora Full-Stack pela Labenu.
+
+Ao longo dessa trajetória, tenho desenvolvido projetos individuais e em equipe, utilizando tecnologias como HTML, CSS, JavaScript e React.js, incluindo Hooks e Styled-Components, além de boas práticas com Git, GitHub e consumo de APIs. Estou continuamente aprimorando meus conhecimentos e habilidades para consolidar minha atuação como desenvolvedora..</h4>
 
 
  <p> <h3> ⭐ Linguagens e Frameworks que estou aprendendo e/ou uso no dia-a-dia estarão aqui</h3><p/>
